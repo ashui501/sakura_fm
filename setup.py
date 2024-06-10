@@ -13,9 +13,9 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     long_description_content_type='text/markdown',
-    author='Aditya',
-    author_email='adityaraj6311@gmail.com',
-    url="https://github.com/awesome-Tofu/sakura_fm",
+    author='JOVAL BEROY',
+    author_email='akiraishikki@gmail.com',
+    url="https://github.com/ashui501/sakura_fm",
     description='A simple scraper package for chatting with bots from sakura.fm',
     long_description=get_long_description(),
     install_requires=[
